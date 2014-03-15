@@ -11,6 +11,8 @@ ZSH_THEME="kafeitu"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias cdws='cd ~/documents/workspace'
+alias svm='ssh root@205.185.115.159'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
